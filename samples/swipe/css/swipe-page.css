@@ -1,6 +1,6 @@
 /* Set the background image sources */
 #newyork { background-image: url("../img/newyork.jpg"); }
-#buenosaires { background-image: url("img/buenosaires.jpg"); }
+#buenosaires { background-image: url("../img/buenosaires.jpg"); }
 #paris { background-image: url("../img/paris.jpg"); }
 #capetown { background-image: url("../img/capetown.jpg"); }
 #seoul { background-image: url("../img/seoul.jpg"); }
